@@ -1,5 +1,5 @@
-# Calculadora básica estilizada com CSS
+# Basic calculator styled with CSS
 
 
-link de acesso:
+access on:
 https://calculadora-tawny.vercel.app/
